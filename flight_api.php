@@ -165,17 +165,10 @@ So, what are you waiting for? We are just a few clicks away from you. Get in tou
 				</div>
 				</section>
       <!-- portfolio end here -->
-      <div class="section-padd gimpbg h-500">
-         <div class="container">
-            <div class="portcont">
-               <div class="porzonwrp aos-init" data-aos="zoom-in-up" data-aos-anchor-placement="top-bottom">
-                  <h3>Our Latest Work</h3>
-                  <p>Bos delivered award winning projects for more than 45 diverse industries.</p>
-                  <a href="javascript:void();" class="thm-btn2">Explore</a> 
-               </div>
-            </div>
-         </div>
-      </div>
+	   	 <?php
+	include 'latest-work.php'
+	?>
+   
        <section class="why-choose-us py-5">
          <div class="container">
             <div class="heading-experts text-center mb-5 d-block">
@@ -234,7 +227,9 @@ So, what are you waiting for? We are just a few clicks away from you. Get in tou
          </div>
       </section>
 <!-- contact form  -->
- 
+ 	 <?php
+	include 'footer-top-form.php'
+	?>
     <?php
 	include 'include/footer.php'
 	?>

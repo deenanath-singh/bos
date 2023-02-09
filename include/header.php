@@ -39,22 +39,23 @@
                            </div>
                            <ul class="dis-none">
                               <li><a href="index.php" class="text-white p-2"><i class="fas fa-home"></i></a></li>
-                              <li><a href="javascript:void();" class="text-white p-2">About Us</a></li>
+                              <li><a href="about.php" class="text-white p-2">About Us</a></li>
                               <li class="servicesTab">
                                  <a href="#1" class="text-white p-2">Services <i class="fas fa-angle-down"></i></a>
                               </li>
                               <li class="hireDeveloper">
                                  <a href="#1" class="text-white p-2">Our Products <i class="fas fa-angle-down"></i></a>
                               </li>
-                              <li class="hireDeveloper1">
+                              <!--<li class="hireDeveloper1">
                                  <a href="api-solution.php" class="text-white p-2">API Solutions  </a>
+                              </li>-->
+							  <li class="submenu-direction">
+                                 <a href="#1" class="text-white p-2">Bussness Solutions <i class="fa fa-chevron-down"></i></a>
                               </li>
                               <li class="onDemandSolutions border-right">
-                                 <a href="javascript:void();" class="text-white p-2">B2B <i class="fas fa-angle-down"></i></a>
+                                 <a href="javascript:void();" class="text-white p-2">Media <i class="fas fa-angle-down"></i></a>
                               </li>
-                              <li class="submenu-direction">
-                                 <a href="#1" class="text-white p-2">B2C <i class="fa fa-chevron-down"></i></a>
-                              </li>
+                              
                               <li><a href="contact.php" class="text-white p-2">Contact Us</a></li>
                            </ul>
                         </div>
@@ -66,36 +67,77 @@
                media menu start here
                ----------------------->
             <div class="media_menu servicesSectiontab">
-               <div class="container-fluid">
+                 <div class="container-fluid">
                   <div class="closeBTN3">CLOSE</div>
                   <div class="submenulist">
-                      <div class="row">
-                     <div class="col-sm-3">
-                        <div class="submenulistclm3 submenulistclm3bg1">
-                           <h4>Hotel Module </h4>
-                           <a href="javascript:void();">Click Here</a>
+                     <div class="row">
+                        <div class="col-sm-3">
+                           <div class="submenulistclm">
+                              <h3><a href="api-solution.php">Api Solution</a></h3>
+                              <ul>
+                                 <li> 
+                                    <ul class="bordLeft1">
+                                       <li>
+                                          <a href="#" class="px-3 py-2">
+                                          <span class="straightLine"></span> Booking API
+                                          </a>
+                                       </li>
+                                       <li>
+                                          <a href="#" class="px-3 py-2">
+                                          <span class="straightLine"></span> Common Service Centres API
+                                          </a>
+                                       </li>
+                                       <li>
+                                          <a href="#" class="px-3 py-2">
+                                          <span class="straightLine"></span> Billing & Recharge API
+                                          </a>
+                                       </li>
+                                       
+                                    </ul>
+                                 </li>
+                                
+                                
+                              </ul>
+                           </div>
                         </div>
-                     </div>
-                     <div class="col-sm-3">
-                        <div class="submenulistclm3 submenulistclm3bg2">
-                        <h4>Bus Module </h4>
-                           <a href="javascript:void();">Click Here</a>
+                        <div class="col-sm-3">
+                           <div class="submenulistclm">
+                              <h3><a href="javascript:void();">B2B</a></h3>
+                              <ul class="border__left">
+                                 <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Hotel Module</a></li>
+                                 <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Bus Module</a></li>
+                                 <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Agent Module</a></li>
+                                 <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Admin Module</a></li> 
+                              </ul>
+                           </div>
                         </div>
-                     </div>
-                     <div class="col-sm-3">
-                        <div class="submenulistclm3 submenulistclm3bg3">
-                           <h4>Customer Module</h4>
-                           <a href="javascript:void();">Click Here</a>
+						   <div class="col-sm-3">
+                           <div class="submenulistclm">
+                              <h3><a href="javascript:void();">B2C</a></h3> 
+                                    <ul class="border__left">
+                                        <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Hotel Module</a></li>
+                                 <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Bus Module</a></li>
+                                 <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Customer Module</a></li>
+                                 <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Admin Module</a></li> 
+                                    </ul>
+                           </div>
                         </div>
-                     </div>
-                     <div class="col-sm-3">
-                        <div class="submenulistclm3 submenulistclm3bg4">
-                           <h4>Admin Module</h4>
-                           <a href="javascript:void();">Click Here</a>
+                        <div class="col-sm-3">
+                           <div class="submenulistclm">
+                              <h3><a href="javascript:void();"> Projects</a></h3>
+                              <ul class="border__left">
+                                 <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Nidhi Company </a></li>
+                                 <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Micro Finance Company</a></li>
+                                 <li><a href="#" class="px-3 py-2"><span class="straightLine"></span>NBFC Company</a></li>
+                               
+                            
+                                 <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Any RD/FD Management Software</a></li>
+                                 <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> NBFC Company</a></li>
+                              </ul>
+                           </div>
                         </div>
+                     
                      </div>
-                      
-                  </div>
                   </div>
                </div>
             </div>
@@ -189,7 +231,7 @@
                   <div class="row">
                      <div class="col-sm-3">
                         <div class="submenulistclm3 submenulistclm3bg1">
-                           <h4>Retailer</h4>
+                           <h4>Retailer </h4>
                            <a href="javascript:void();">Click Here</a>
                         </div>
                      </div>
@@ -223,26 +265,26 @@
                      <div class="row">
                         <div class="col-sm-3">
                            <div class="submenulistclm3 submenulistclm3bg1">
-                              <h4>  Hotel Module  </h4>
-                              <a href="javascript:void();">Hire</a>
+                              <h4>  Blog</h4>
+                              <a href="javascript:void();">View More</a>
                            </div>
                         </div>
                         <div class="col-sm-3">
                            <div class="submenulistclm3 submenulistclm3bg2">
-                              <h4>Bus Module</h4>
-                              <a href="#html">Hire</a>
+                              <h4> News</h4>
+                              <a href="#html">View More</a>
                            </div>
                         </div>
                         <div class="col-sm-3">
                            <div class="submenulistclm3 submenulistclm3bg3">
-                              <h4> Agent Module</h4>
-                              <a href="#html">Hire</a>
+                              <h4> Testimonial</h4>
+                              <a href="testimonial.php">View More</a>
                            </div>
                         </div>
                         <div class="col-sm-3">
                            <div class="submenulistclm3 submenulistclm3bg4">
-                              <h4> Admin Module</h4>
-                              <a href="#html">Hire</a>
+                              <h4> Gallery</h4>
+                              <a href="gallery.php">View More</a>
                            </div>
                         </div>
                         

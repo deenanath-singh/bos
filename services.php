@@ -298,9 +298,15 @@
          </div>
       </div>
    </section>
+     	 <?php
+	include 'latest-work.php'
+	?>
+		 <?php
+	include 'testimonials-section.php'
+	?>
    <!-- services crousal end-->
    <!-- conatct form  -->
-   <?php include 'include/contact-form.php' ?>
+   <?php include 'footer-top-form.php' ?>
    <!-- contact form end -->
 
    <?php include 'include/footer.php' ?>

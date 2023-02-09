@@ -528,6 +528,9 @@
 </div>
          
         </section>
+		 <?php
+	include 'footer-top-form.php'
+	?>
     <?php
 	include 'include/footer.php'
 	?>

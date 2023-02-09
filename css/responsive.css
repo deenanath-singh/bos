@@ -460,7 +460,7 @@
 
 .how-we-work__column20:nth-child(2)::before {
 	content: '';
-	background: #0e98c9;
+	background:#1e99e9;
 	border-radius: 5px;
 	position: absolute;
 	width: 40px;
@@ -472,51 +472,8 @@
 	top: 35px;
 	z-index: 1;
 }
-
-.how-we-work__icon {
-	border: 2px solid #fff;
-	border-radius: 50%;
-	width: 48px;
-	height: 48px;
-	font-size: 33px;
-	color: #fff;
-	display: -webkit-box;
-	display: -webkit-flex;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-align: center;
-	-webkit-align-items: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	-webkit-justify-content: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	position: relative;
-	z-index: 2;
-	margin-bottom: 28px;
-}
-
-.how-we-work__right-img img {
-	border-radius: 10px;
-	width: 100%;
-	height: 100%;
-}
-
-.how-we-work__right-img {
-	position: absolute;
-	top: -125px;
-	left: 50%;
-	-webkit-transform: translateX(-40%);
-	-ms-transform: translateX(-40%);
-	transform: translateX(-40%);
-	width: 290px;
-	height: 189px;
-	border-radius: 10px;
-	-webkit-box-shadow: 0 0 16px rgb(0 0 0 / 5%);
-	box-shadow: 0 0 16px rgb(0 0 0 / 5%);
-}
-
+ 
+ 
 #abourtsd .col-md-6.how-we-work__column20 {
 	background: #0e98c9;
 	padding: 35px 40px;
@@ -525,18 +482,7 @@
 	border-radius: 10px;
 }
 
-.col-md-7.how-we-work__column20 {
-	background: #0e98c9;
-	padding: 35px 40px;
-	margin-top: 70px;
-	border-radius: 10px;
-}
-
-#aboutsus .how-we-work__text p {
-	color: #fff;
-	font-size: 17px !important;
-	font-weight: 300;
-}
+ 
 
 .col-md-5.how-we-work__column0 img {
 	height: 350px;
@@ -671,14 +617,10 @@
 	transform: rotateY(180deg);
 }
 
-.imageabout {
-	position: absolute;
-	width: 640px;
-	right: 40px;
-	height: 300px;
-	left: -64px;
-	z-index: 1;
-	top: 72px;
+.imageabout { 
+    width: 640px;
+    left: -40px;
+    top: 30px;
 }
 
 .abouts .addpHedd.head-invert h2,
@@ -689,28 +631,8 @@
 .abouts .addpHedd.head-invert h2 span {
 	color: #1495bd;
 }
-
-.abouts .testimobxowr {
-	border: 1px dashed #acb3dc;
-	padding: 24px 90px 15px 60px;
-	border-radius: 0;
-	text-align: left;
-	position: relative;
-	margin-top: 60px;
-	min-height: 250px;
-	background: #1495bd;
-}
-
-.abouts .testimobxowr {
-	border: 1px dashed #acb3dc;
-	padding: 50px 90px 0px 60px;
-	border-radius: 0;
-	text-align: left;
-	position: relative;
-	margin-top: 0px;
-	min-height: 250px;
-}
-
+ 
+ 
 .abouts .clintimg {
 	width: 70px;
 	height: 70px;
@@ -788,13 +710,7 @@
 	margin-top: 12px;
 }
 
-.page-block.schema-result p {
-	text-transform: uppercase;
-	font-size: 14px;
-	font-weight: 300;
-	line-height: 1.39;
-}
-
+ 
 .page-block.schema-result h5 {
 	font-size: 50px;
 	color: #0e98c9;
@@ -958,11 +874,7 @@
 }
  
 
-.abouts .testimobxowr {
-	min-height: 450px;
-	height: 430px;
-}
-
+ 
 
 /*style p*/
 
@@ -972,16 +884,7 @@
 	font-family: Roboto;
 }
 
-
-#aboutss .page-block.schema-result p {
-	text-transform: uppercase;
-	font-size: 14px;
-	font-weight: 400;
-	line-height: 1.39;
-	font-family: 'Roboto', sans-serif;
-	letter-spacing: 0.5px;
-}
-
+ 
 #aboutss .sec_heading p {
 	letter-spacing: 0.5px;
 	font-weight: 400;
@@ -997,13 +900,7 @@
 	font-size: 22px;
 	margin-bottom: 20px;
 }
-
-#aboutss #aboutsus .how-we-work__text p {
-	color: #fff;
-	font-weight: 300;
-	font-family: 'Roboto', sans-serif;
-	letter-spacing: 0.3px;
-}
+ 
 
 #backfilip .flip-card-front {
 	padding-top: 0px;
@@ -1096,68 +993,9 @@
 	padding-top: 85px;
 }
 
-#abourtsd .how-we-work__icon {
-	border: 2px solid #fff;
-	border-radius: 50%;
-	width: 60px;
-	padding: 8px !important;
-	height: 60px;
-	font-size: 33px;
-	color: #fff;
-	display: flex;
-	-webkit-box-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	justify-content: center;
-	position: relative;
-	z-index: 2;
-	margin-bottom: 10px;
-	background: #fff;
-	float: left;
-}
-
-.how-we-work__icon {
-	border: 2px solid #fff;
-	border-radius: 50%;
-	width: 48px;
-	height: 48px;
-	font-size: 33px;
-	color: #fff;
-	display: -webkit-box;
-	display: -webkit-flex;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-align: center;
-	-webkit-align-items: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	-webkit-justify-content: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	position: relative;
-	z-index: 2;
-	margin-bottom: 30px;
-}
-
-.headingabout {
-	float: right;
-	width: 70%;
-}
-
-.headingabout p {
-	color: #fff;
-	font-size: 20px;
-	font-size: 20px !important;
-	line-height: 3;
-}
-
-.headingabout {
-	float: right;
-	width: 85%;
-	color: #fff;
-	height: 70px;
-}
+ 
+ 
+ 
 
 .how-we-work__text.parad {
 	width: 100%;
@@ -1228,67 +1066,13 @@
 	right: -35px;
 	top: -12px;
 }
+ 
 
-.col-md-7.how-we-work__column20 .headingabout p {
-	color: #163e4a;
-	font-size: 16px !important;
-	line-height: 3;
-	text-align: center;
-}
-
-.col-md-7.how-we-work__column20 .how-we-work__right-img {
-	position: absolute;
-	top: -125px;
-	left: 50%;
-	-webkit-transform: translateX(-40%);
-	-ms-transform: translateX(-40%);
-	transform: translateX(-40%);
-	width: 200px;
-	height: 190px;
-	border-radius: 50%;
-	-webkit-box-shadow: 0 0 16px rgb(0 0 0 / 5%);
-	box-shadow: 0 0 16px rgb(0 0 0 / 5%);
-	background: #fff;
-	border: 2px solid #0e98c9;
-}
-
-.iconsdk {
-	border: 0px solid #fff;
-	border-radius: 0px;
-	width: 70px;
-	height: auto;
-	font-size: inherit;
-	color: #fff;
-	display: -webkit-box;
-	display: -webkit-flex;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-align: center;
-	-webkit-align-items: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-box-pack: center;
-	-webkit-justify-content: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	position: relative;
-	z-index: 2;
-	margin: 30px auto 0px;
-}
-
-.col-md-7.how-we-work__column20 .headingabout {
-	float: right;
-	width: 100%;
-	color: #fff;
-	height: auto;
-}
+ 
 
 #owl-carousel6 .owl-stage-outer {
-	position: relative;
-	overflow: hidden;
-	-webkit-transform: translate3d(0, 0, 0);
-	padding-top: 150px;
-	margin-top: -150px;
+padding-top: 65px;
+    margin-top: -110px;
 }
 
 #owl-carousel6 .owl-dot.active {
@@ -1309,67 +1093,8 @@
 #aboutsus {
 	padding-bottom: 0px;
 }
-
-#vimision .mb-5.mb-lg-7 {
-	color: #333;
-	font-weight: 400;
-	font-family: 'Roboto', sans-serif;
-	letter-spacing: 0.3px;
-	line-height: 21px;
-}
-
-.visions {
-	position: relative;
-	margin-bottom: 30px;
-	background: rgb(57 165 64);
-	#fda500;
-	padding: 20px 30px;
-	height: 195px;
-}
-
-.missions {
-	position: relative;
-	margin-bottom: 30px;
-	background: rgb(18 127 160 / 90%);
-	#163e4a;
-	padding: 20px 30px;
-	height: 195px;
-}
-
-.whyss {
-	position: relative;
-	background: rgb(22 179 153);
-	#126af2;
-	padding: 20px 30px;
-	height: 195px;
-}
-
-.values {
-	position: relative;
-	background: rgb(110 91 189 / 90%);
-	#0e98c9;
-	padding: 20px 30px;
-	height: 195px;
-}
-
-#vimision h5 {
-	color: #fff;
-	font-size: 18px;
-	font-weight: 500;
-}
-
-#vimision {
-	padding: 85px 0px 85px;
-}
-
-#vimision p {
-	color: #fff;
-	font-weight: 300;
-	font-family: 'Roboto', sans-serif;
-	letter-spacing: 0.3px;
-	line-height: 18px;
-}
-
+ 
+ 
 .visions i {
 	color: #fff;
 	background: #7c6bc3;
@@ -1436,45 +1161,13 @@
 	letter-spacing: 0.5px;
 }
 
-.aboutIfo h2 {
-	letter-spacing: 0.5px;
-	font-size: 30px;
-	margin: 20px 0 25px;
-	color: #163e4a;
-	font-family: "Roboto", sans-serif;
-	text-transform: capitalize;
-}
-
+ 
 .content_row .clm_7 .clm_66 p {
 	line-height: 1.6;
 	margin: 0 0 15px;
 }
 
-.home-bg h2 {
-	font-size: 40px;
-	color: #1c294a;
-	margin: 0px 0 30px;
-}
-
-.home-bg .mb-5.mb-lg-7 {
-	font-size: 18px;
-	color: #424c65;
-	font-family: "Roboto", sans-serif;
-	line-height: 1.5;
-	margin: 0 0 0;
-}
-
-.aboutIfo .btn__btn-custom {
-	color: #fff;
-	background-color: #0a85ab;
-	border-color: #0a85ab;
-	padding: 13px 39px;
-	display: inline-block;
-	border-radius: 5px;
-	font-family: "Roboto", sans-serif;
-	margin-top: 30px;
-}
-
+ 
 .reward-block1 .box span {
 	padding: 13px 0px 0px;
 	float: left;
@@ -1497,20 +1190,7 @@
 	margin-top: 35px;
 }
 
-.l-clutch_icon img {
-	width: 60px;
-}
-
-.l-clutch_icon {
-	height: 6.875rem;
-	width: 70px;
-	float: left;
-}
-
-.technologies {
-	padding: 85px 0px;
-	background: #eee;
-}
+ 
 
 .ulines {
 	margin: 0px;
@@ -1532,15 +1212,7 @@
 	height: 35px;
 }
 
-.aboutIfo p {
-	font-family: 'Roboto', sans-serif;
-	letter-spacing: 0.3px;
-}
-
-#nav-one p {
-	font-family: 'Roboto', sans-serif;
-	letter-spacing: 0.3px;
-}
+ 
 
 #prouduct3 .heading-experts h2 span {
 	color: #4c4a4a
@@ -2171,17 +1843,7 @@ div#oel .owl-item .item p {
 	margin-bottom: 24px;
 }
 
-.dates img {
-	height: 220px;
-	width: 100%;
-}
-
-.dates {
-	overflow: hidden;
-	height: 220px;
-	border-radius: 15px;
-	position: relative;
-}
+ 
  
 .blogsd .heading {
 	padding-bottom: 20px;
@@ -2512,13 +2174,7 @@ a.story__2PFf3PoXqjjoDn_EvjY2qU {
 	height: 90px
 }
 
-.awards .blog-group .blog-sec1 img {
-	border-radius: 15px;
-	width: 100%;
-	height: auto;
-	padding: 25px 70px;
-}
-
+ 
 .ab2 {
 	float: left;
 	padding-right: 7px;
@@ -3390,21 +3046,8 @@ ul.title-tab {
 		margin-bottom: 5px;
 	}
 
-	.imageabout {
-		width: 100%;
-		right: 40px;
-		height: auto;
-		left: -64px;
-		top: 95px;
-	}
-
-	.visions,
-	.missions,
-	.whyss,
-	.values {
-		padding: 10px 20px;
-		height: 215px;
-	}
+	 
+ 
 
 	#buttunsbanner22 {
 		text-align: center;
@@ -3448,14 +3091,8 @@ ul.title-tab {
 		width: 63%;
 	}
 
-	.l-clutch_icon {
-		width: 56px;
-	}
-
-	.l-clutch_icon img {
-		width: 50px;
-	}
-
+ 
+ 
 	.reward-block1 .box {
 		font-family: "Roboto", sans-serif;
 		font-size: 14px;
@@ -3603,9 +3240,7 @@ ul.title-tab {
 		margin-bottom: 0px;
 	}
 
-	.awards .blog-group .blog-sec1 img {
-		padding: 25px 40px;
-	}
+ 
 
 	.industVwwrpios.section-padd img {
 		width: 96%;
@@ -3731,14 +3366,8 @@ ul.title-tab {
 		width: 63%;
 	}
 
-	.l-clutch_icon {
-		width: 56px;
-	}
-
-	.l-clutch_icon img {
-		width: 50px;
-	}
-
+ 
+ 
 	.reward-block1 .box {
 		font-family: "Roboto", sans-serif;
 		font-size: 14px;
@@ -3898,10 +3527,7 @@ ul.title-tab {
 	.whychoheading .addpHedd h3 {
 		margin-bottom: 0px;
 	}
-
-	.awards .blog-group .blog-sec1 img {
-		padding: 25px 40px;
-	}
+ 
 
 	.teammember .flip-card-back {
 		width: 91%;
@@ -4145,28 +3771,8 @@ ul.title-tab {
 		width: 100%;
 		float: left;
 	}
-
-	.home-bg h2 {
-		font-size: 25px;
-		color: #1c294a;
-		margin: 0px 0 15px;
-	}
-
-	#vimision {
-		padding: 5px 0px 50px;
-	}
-
-	.whyss,
-	.values,
-	.missions,
-	.visions {
-		height: auto;
-		margin-bottom: 30px;
-	}
-
-	.technologies {
-		padding: 50px 0px;
-	}
+ 
+ 
 
 	.ulines {
 		margin-bottom: 30px;
@@ -4202,11 +3808,7 @@ ul.title-tab {
 		margin-bottom: 10px;
 	}
 
-	.abouts .testimobxowr {
-		min-height: auto;
-		height: auto;
-	}
-
+ 
 	#contact-section,
 	#contact-section .form-small__body {}
 
@@ -4230,17 +3832,7 @@ ul.title-tab {
 		max-height: 60px;
 		margin: 50px auto 30px;
 	}
-
-	.imageabout {
-		position: relative;
-		width: 100%;
-		right: inherit;
-		height: 300px;
-		left: inherit;
-		z-index: 1;
-		top: inherit;
-		margin: 40px 0px 0px;
-	}
+ 
 
 	.apCon_Wrp {
 		padding: 0px 0 0;
@@ -4291,10 +3883,7 @@ ul.title-tab {
 		font-size: 13px;
 	}
 
-	a.thm-btn3 {
-		padding: 6px 10px;
-		font-size: 14px;
-	}
+ 
 
 	#termsd .main-shop {
 		margin: 50px 0 50px;
@@ -4310,15 +3899,7 @@ ul.title-tab {
 		font-size: 25px;
 	}
 
-	.dates img {
-		width: 100%;
-		height: auto;
-	}
-
-	.dates {
-		width: 100%;
-		height: auto;
-	}
+ 
 
 	.blog-group {
 		height: auto;
@@ -4485,12 +4066,7 @@ ul.title-tab {
 		float: left;
 		margin-top: 35px;
 	}
-
-	.col-md-6.col-md-push-6 .aboutIfo h2 {
-		letter-spacing: 0.5px;
-		font-size: 30px;
-		margin: 10px 0 13px;
-	}
+ 
 
 	.col-md-6.col-md-push-6 .aboutIfo {
 		margin-bottom: 20px;
@@ -4798,16 +4374,8 @@ ul.title-tab {
 		width: 63%;
 	}
 
-	.l-clutch_icon {
-		width: 56px;
-	}
-
-	.l-clutch_icon img {
-		width: 50px;
-	}
-
-	.reward-block1 .box {
-		font-family: "Roboto", sans-serif;
+ 
+	.reward-block1 .box { 
 		font-size: 14px;
 		max-width: calc(48% - 6px);
 		width: 100%;
@@ -4967,9 +4535,7 @@ ul.title-tab {
 		margin-bottom: 0px;
 	}
 
-	.awards .blog-group .blog-sec1 img {
-		padding: 25px 40px;
-	}
+ 
 
 	.sec_heading h1 {
 		font-size: 20px;
@@ -5225,28 +4791,8 @@ ul.title-tab {
 		float: left;
 	}
 
-	.home-bg h2 {
-		font-size: 20px;
-		color: #1c294a;
-		margin: 0px 0 15px;
-	}
-
-	#vimision {
-		padding: 5px 0px 50px;
-	}
+  
  
-	.whyss,
-	.values,
-	.missions,
-	.visions {
-		height: auto;
-		margin-bottom: 30px;
-	}
-
-	.technologies {
-		padding: 50px 0px;
-	}
-
 	.ulines {
 		margin-bottom: 30px;
 	}
@@ -5281,11 +4827,7 @@ ul.title-tab {
 		margin-bottom: 10px;
 	}
 
-	.abouts .testimobxowr {
-		min-height: auto;
-		height: auto;
-	}
-
+ 
 	#contact-section,
 	#contact-section .form-small__body {}
 
@@ -5310,16 +4852,7 @@ ul.title-tab {
 		margin: 50px auto 30px;
 	}
 
-	.imageabout {
-		position: relative;
-		width: 100%;
-		right: inherit;
-		height: 300px;
-		left: inherit;
-		z-index: 1;
-		top: inherit;
-		margin: 40px 0px 0px;
-	}
+ 
 
 	.apCon_Wrp {
 		padding: 0px 0 0;
@@ -5371,11 +4904,7 @@ ul.title-tab {
 		font-size: 13px;
 	}
 
-	a.thm-btn3 {
-		padding: 6px 10px;
-		font-size: 14px;
-	}
-
+ 
 	#termsd .main-shop {
 		margin: 50px 0 50px;
 	}
@@ -5389,17 +4918,8 @@ ul.title-tab {
 		margin: 0 0 10px;
 		font-size: 20px;
 	}
-
-	.dates img {
-		width: 100%;
-		height: auto;
-	}
-
-	.dates {
-		width: 100%;
-		height: auto;
-	}
-
+ 
+ 
 	.blog-group {
 		height: auto;
 		padding-bottom: 20px;
@@ -5570,12 +5090,7 @@ ul.title-tab {
 		top: 50px;
 	}
 
-	.col-md-6.col-md-push-6 .aboutIfo h2 {
-		letter-spacing: 0.5px;
-		font-size: 30px;
-		margin: 10px 0 13px;
-	}
-
+ 
 	.col-md-6.col-md-push-6 .aboutIfo {
 		margin-bottom: 20px;
 		width: 100%;
@@ -6266,16 +5781,9 @@ ul.title-tab {
 		text-align: center;
 	}
 
-	.l-clutch_icon {
-		width: 56px;
-	}
-
-	.l-clutch_icon img {
-		width: 50px;
-	}
-
-	.reward-block1 .box {
-		font-family: "Roboto", sans-serif;
+ 
+ 
+	.reward-block1 .box { 
 		font-size: 14px;
 		max-width: calc(100% - 15px);
 		width: 100%;
@@ -6452,11 +5960,7 @@ ul.title-tab {
 	.whychoheading .addpHedd h3 {
 		margin-bottom: 0px;
 	}
-
-	.awards .blog-group .blog-sec1 img {
-		padding: 25px 40px;
-	}
-
+ 
 	.sec_heading h1 {
 		font-size: 20px;
 		margin: 0px 0px 0px;
@@ -6733,29 +6237,8 @@ ul.title-tab {
 		float: left;
 	}
 
-	.home-bg h2 {
-		font-size: 16px;
-		color: #1c294a;
-		margin: 0px 0 15px;
-	}
-
-	#vimision {
-		padding: 5px 0px 50px;
-	}
-
  
-
-	.whyss,
-	.values,
-	.missions,
-	.visions {
-		height: auto;
-		margin-bottom: 30px;
-	}
-
-	.technologies {
-		padding: 50px 0px;
-	}
+ 
 
 	.ulines {
 		margin-bottom: 30px;
@@ -6791,10 +6274,7 @@ ul.title-tab {
 		margin-bottom: 10px;
 	}
 
-	.abouts .testimobxowr {
-		min-height: auto;
-		height: auto;
-	}
+ 
 
 	#contact-section,
 	#contact-section .form-small__body {}
@@ -6820,17 +6300,7 @@ ul.title-tab {
 		max-height: 60px;
 		margin: 50px auto 30px;
 	}
-
-	.imageabout {
-		position: relative;
-		width: 100%;
-		right: inherit;
-		height: auto;
-		left: inherit;
-		z-index: 1;
-		top: inherit;
-		margin: 40px 0px 0px;
-	}
+ 
 
 	.expert-img {
 		height: auto;
@@ -6890,10 +6360,7 @@ ul.title-tab {
 		font-size: 13px;
 	}
 
-	a.thm-btn3 {
-		padding: 6px 10px;
-		font-size: 14px;
-	}
+ 
 
 	#termsd .main-shop {
 		margin: 50px 0 50px;
@@ -6909,16 +6376,9 @@ ul.title-tab {
 		font-size: 20px;
 	}
 
-	.dates img {
-		width: 100%;
-		height: auto;
-	}
+ 
 
-	.dates {
-		width: 100%;
-		height: auto;
-	}
-
+ 
 	.blog-group {
 		height: auto;
 		padding-bottom: 20px;
@@ -7096,12 +6556,7 @@ ul.title-tab {
 		top: 50px;
 	}
 
-	.col-md-6.col-md-push-6 .aboutIfo h2 {
-		letter-spacing: 0.5px;
-		font-size: 20px;
-		margin: 10px 0 13px;
-	}
-
+ 
 	.col-md-6.col-md-push-6 .aboutIfo {
 		margin-bottom: 20px;
 		width: 100%;
@@ -7673,37 +7128,15 @@ ul.title-tab {
 		width: auto !important;
 		text-align: left !important;
 	}
+ 
 
-	.aboutIfo h2 {
-		font-size: 20px;
-		margin: 6px 0 12px;
-	}
-
-
-	.aboutIfo .btn__btn-custom {
-		padding: 8px 20px;
-		margin-top: 17px;
-	}
-
+ 
 	.ulines li {
 		width: 100%;
 		margin-right: 0%;
 	}
-
-	.iconsdk {
-		width: 45px;
-	}
-
-	.col-md-7.how-we-work__column20 .how-we-work__right-img {
-		top: -90px;
-		width: 141px;
-		height: 140px;
-	}
-
-	.abouts .testimobxowr {
-		padding: 10px 20px 0px 20px;
-	}
-
+ 
+ 
 	.requast-call {
 		text-align: center;
 	}

@@ -5,17 +5,17 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>Bos</title>
-      <?php
-      include 'include/link.php'
+      <?php 
+         include 'include/link.php'
          ?>
    </head>
    <body>
-      <?php
-      include 'include/enquiry-popup.php'
+      <?php 
+         include 'include/enquiry-popup.php'
          ?>
       <?php
-      include 'include/header.php'
-         ?>
+         include 'include/header.php'
+           ?>
       <div class="sliderTab2">
          <div class="owl-carousel owl-theme sliderOwl">
             <div class="item">
@@ -382,7 +382,7 @@
                         We offer an API based end to end private label / white label travel portal turnkey solution that is tailored to suit the complete needs of an online 
                         travel agency. On white label solution allows you to build your online travel agency completely under your Brand without any redirection.  
                      </p>
-                     <a class="fs-13 text-center bg-orange lsp-5 bg-blue d-inline-block rounded-pill border-0 mt-3 mb-0 w-120 py-2 px-4 shadow-none text-white" href="javascript:void();">About Us</a>
+                     <a class="fs-13 text-center bg-orange lsp-5 bg-blue d-inline-block rounded-pill border-0 mt-3 mb-0 w-120 py-2 px-4 shadow-none text-white" href="about.php">About Us</a>
                   </div>
                </div>
             </div>
@@ -757,7 +757,7 @@
                   </div>
                </div>
             </div>
-            <a href="javascript:void();" class="w-120 mx-auto my-3 d-block h-40px lh-40 text-center border border-white text-white rounded-pill">View More</a>
+            <a href="api-solution.php" class="w-120 mx-auto my-3 d-block h-40px lh-40 text-center border border-white text-white rounded-pill">View More</a>
          </div>
       </section>
       <section class="wavepra">
@@ -1075,141 +1075,11 @@
             </div>
          </div>
       </div>
-      <section class="teammember py-5 mt-0 bg-light-dark">
-         <div class="container min-container mt-5">
-            <div class="heading-experts text-start">
-               <h2 class="fs-30 lsp-5 m-0 pb-2 text-white text-uppercase">Our<span class="fs-30 lsp-5 text-orange"> Team</span></h2>
-               <p class="w-50 text-white">Acknowledged by popular tech platforms based on the quality of customer feedback,  industry expertise, and services offered.</p>
-            </div>
-            <div class="row">
-               <div class="col-md-12 col-sm-12 col-12">
-                  <div id="clientowls" class="owl-carousel owl-theme">
-                     <div class="item">
-                        <div class="flip-card">
-                           <div class="flip-card-inner">
-                              <div class="flip-card-front">
-                                 <div class="colTeam">
-                                    <div class="img-div position-relative top-0 text-center pt-3">
-                                       <img src="img/team-2.png" class="rounded-3">
-                                    </div>
-                                    <div class="midclm1 bg-white shadow-3 px-3 py-2 position-absolute w-90 mx-auto start-10 bottom--50 rounded-3">
-                                       <div class="innermml"></div>
-                                       <h3 class="fs-15 text-orange position-relative lsp-5 text-center m-0">Karan Bakshi</h3>
-                                       <p class="lsp-5 text-center text-muted my-1 fs-13"> Founder/CEO & Director </p>
-                                       <ul class="socials-links">
-                                          <li><a href="http://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                          <li><a href="http://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                          <li><a href="http://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-                                          <li><a href="http://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                       </ul>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="flip-card-back">
-                                 <img src="img/team-2.png" class="circle-img">
-                                 <h3 class="fs-18 text-blue">Karan Bakshi</h3>
-                                 <p> Founder/CEO & Director </p>
-                                 <p>Is an M.Ed., B.Ed. & M.Sc., from Patna Science College in Life Science.  She is a seasoned entrepreneur and started three different businesses in R&D.</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="item">
-                        <div class="flip-card">
-                           <div class="flip-card-inner">
-                              <div class="flip-card-front">
-                                 <div class="colTeam">
-                                    <div class="img-div position-relative top-0 text-center pt-3">
-                                       <img src="img/team-3.png" class="rounded-3">
-                                    </div>
-                                    <div class="midclm bg-white shadow-3 px-3 py-2 position-absolute w-90 mx-auto start-10 bottom--50 rounded-5">
-                                       <div class="innermml"></div>
-                                       <h3 class="fs-15 text-orange position-relative lsp-5 text-center m-0">Rajiv Ranjan Bakshi</h3>
-                                       <p class="lsp-5 text-center text-muted my-1 fs-13">Director </p>
-                                       <ul class="socials-links">
-                                          <li><a href="http://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                          <li><a href="http://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                          <li><a href="http://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-                                          <li><a href="http://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                       </ul>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="flip-card-back">
-                                 <img src="img/team-3.png" class="circle-img">
-                                 <h3 class="fs-18 text-blue">Rajiv Ranjan Bakshi</h3>
-                                 <p>Director</p>
-                                 <p>Brings in rich experience of GT & MT Sales, Go-to-Market Strategies & product and market launch. Has 27 years of work experience with brands like Pepsi. </p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="item">
-                        <div class="flip-card">
-                           <div class="flip-card-inner">
-                              <div class="flip-card-front">
-                                 <div class="colTeam">
-                                    <div class="img-div position-relative top-0 text-center pt-3">
-                                       <img src="img/team-1.png" class="rounded-3">
-                                    </div>
-                                    <div class="midclm bg-white shadow-3 px-3 py-2 position-absolute w-90 mx-auto start-10 bottom--50 rounded-5">
-                                       <div class="innermml"></div>
-                                       <h3 class="fs-15 text-orange position-relative lsp-5 text-center m-0">Mukesh Saine</h3>
-                                       <p class="lsp-5 text-center text-muted my-1 fs-13">Director</p>
-                                       <ul class="socials-links">
-                                          <li><a href="http://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                          <li><a href="http://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                          <li><a href="http://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-                                          <li><a href="http://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                       </ul>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="flip-card-back">
-                                 <img src="img/team-1.png" class="circle-img">
-                                 <h3 class="fs-18 text-blue">Mukesh Saine</h3>
-                                 <p>Director</p>
-                                 <p>Is an M.B.A, LLB, LLM, PH.D.   present status  Member of NYKS,  Pradesh Sachiv, Bharatiya Kisan Union, Uttrakhand.</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="item">
-                        <div class="flip-card">
-                           <div class="flip-card-inner">
-                              <div class="flip-card-front">
-                                 <div class="colTeam">
-                                    <div class="img-div position-relative top-0 text-center pt-3">
-                                       <img src="img/team-4.png" class="rounded-3">
-                                    </div>
-                                    <div class="midclm bg-white shadow-3 px-3 py-2 position-absolute w-90 mx-auto start-10 bottom--50 rounded-5">
-                                       <div class="innermml"></div>
-                                       <h3 class="fs-15 text-orange position-relative lsp-5 text-center m-0">Priyaranjan</h3>
-                                       <p class="lsp-5 text-center text-muted my-1 fs-13">Independent Director</p>
-                                       <ul class="socials-links">
-                                          <li><a href="http://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                          <li><a href="http://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                          <li><a href="http://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-                                          <li><a href="http://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                       </ul>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="flip-card-back">
-                                 <img src="img/team-4.png" class="circle-img">
-                                 <h3 class="fs-18 text-blue">Priyaranjan</h3>
-                                 <p>Independent Director</p>
-                                 <p>Is an MBA from IIM-C &  JIMS Delhi. Is  a  business leader with exposure in India, SAARC, SEA & Africa Region. Has worked with Brands like TOI, WCCLG, PMI, VIP Bags & Bisleri.</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-      <div class="clearfix"></div>
+	  <div class="bg-dark-gray">
+      <?php
+         include 'team-section.php'
+         ?>
+		 </div>
       <section class="spacer blog bg-white pt-5 pb-3">
          <div class="container-fluid">
             <div class="heading-experts text-center">
@@ -1347,12 +1217,15 @@
             </div>
          </div>
       </section>
-      <?php include 'include/contact-form.php' ?>
-        <?php
-        include 'include/footer.php'
-           ?>
+    
       <?php
-      include 'include/script.php'
+         include 'footer-top-form.php'
+         ?>
+      <?php
+         include 'include/footer.php'
+         ?>
+      <?php
+         include 'include/script.php'
          ?>
    </body>
 </html>

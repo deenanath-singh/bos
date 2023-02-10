@@ -399,10 +399,14 @@ Being a member of the BOS Center Team means having unified goals and objectives,
          </div>
       </div>
     <!-- why product end -->
+
     <!-- clients  -->
    <?php
 	include 'testimonials-section.php'
 	?>
+  <?php
+		include 'footer-top-form.php'
+	   ?>
     <?php
 	include 'include/footer.php'
 	?>

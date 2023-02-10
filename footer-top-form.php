@@ -10,34 +10,25 @@
                      <div class="owl-carousel owl-theme formRanking">
                         <div class="item">
                            <div class=" w-100px m-auto h-100px d-flex align-items-center rounded-circle bg-white text-center">
-                              <img class="owl-lazy mx-auto" data-src="img/BosLogo.png" alt="Clutch Award" src="img/BosLogo.png" style="opacity: 1;">
+                              <img class="owl-lazy mx-auto" data-src="img/client1.png" alt="Clutch Award" src="img/client1.png" style="opacity: 1;">
                            </div>
                         </div>
                         <div class="item">
                            <div class=" w-100px m-auto h-100px d-flex align-items-center rounded-circle bg-white text-center">
-                              <img class="owl-lazy mx-auto" data-src="img/BosLogo.png" alt="Clutch Award" src="img/BosLogo.png" style="opacity: 1;">
+                              <img class="owl-lazy mx-auto" data-src="img/client2.png" alt="Clutch Award" src="img/client2.png" style="opacity: 1;">
                            </div>
                         </div>
                         <div class="item">
                            <div class=" w-100px m-auto h-100px d-flex align-items-center rounded-circle bg-white text-center">
-                              <img class="owl-lazy mx-auto" data-src="img/BosLogo.png" alt="Clutch Award" src="img/BosLogo.png" style="opacity: 1;">
+                              <img class="owl-lazy mx-auto" data-src="img/client3.png" alt="Clutch Award" src="img/client3.png" style="opacity: 1;">
                            </div>
                         </div>
                         <div class="item">
                            <div class=" w-100px m-auto h-100px d-flex align-items-center rounded-circle bg-white text-center">
-                              <img class="owl-lazy mx-auto" data-src="img/BosLogo.png" alt="Clutch Award" src="img/BosLogo.png" style="opacity: 1;">
+                              <img class="owl-lazy mx-auto" data-src="img/client4.png" alt="Clutch Award" src="img/client4.png" style="opacity: 1;">
                            </div>
                         </div>
-                        <div class="item">
-                           <div class=" w-100px m-auto h-100px d-flex align-items-center rounded-circle bg-white text-center">
-                              <img class="owl-lazy mx-auto" data-src="img/BosLogo.png" alt="Clutch Award" src="img/BosLogo.png" style="opacity: 1;">
-                           </div>
-                        </div>
-                        <div class="item">
-                           <div class=" w-100px m-auto h-100px d-flex align-items-center rounded-circle bg-white text-center">
-                              <img class="owl-lazy mx-auto" data-src="img/BosLogo.png" alt="Clutch Award" src="img/BosLogo.png" style="opacity: 1;">
-                           </div>
-                        </div>
+                      
                      </div>
                   </div>
                </div>

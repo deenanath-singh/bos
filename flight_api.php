@@ -36,6 +36,8 @@
                      office for a nice coffee and a friendly chat following the
                      directions below.
                   </p>
+				  <a href="#" class="thm-btn2 modalShow text-white bg-dark d-inline-block py-2 px-3 text-uppercase rounded justify-content-center border-2 border border-white z-index-9 fs-6 position-relative overflow-hidden align-items-center  mt-3"> Request a quote</a>
+             
                </div>
             </div>
          </div>
@@ -85,27 +87,52 @@ So, what are you waiting for? We are just a few clicks away from you. Get in tou
 								 
 									 
 								</div>
-							 <div class="fs-14 fw-normal">
-							 <h3 class="fs-18 lsp-5 text-uppercase mt-3 fw-normal text-blue ">Advantages of Flight API Integration: -</h3>
-	<ul class="list-style-none p-0 m-0 lsp-5 fs-14 lh-24 d-flow-root w-100">
-	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> B2C &amp;amp; B2B Booking Engine</li>
-	  <li class="float-start me-2 py-2 border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> fast and error free online reservation facility.</li>
-	  <li class="float-start me-2 py-2 border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Increase Profitability.</li>
-	  <li class="float-start me-2 py-2  border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Instant Booking Confirmation.</li>
-	  <li class="float-start me-2 py-2  border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Personalized service.</li>
-	  <li class="float-start me-2 py-2  border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Easy Integration.</li>
-	  <li class="float-start me-2 py-2 border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> 24/7 technical support.</li>
-	  <li class="float-start me-2 py-2 border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> User-Friendly Interface.</li>
-	  <li class="float-start me-2 py-2 border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Booking Details Through SMS and EMAIL</li>
-	  <li class="float-start me-2 py-2 border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Easy Management.</li>
-	  <li class="float-start me-2 py-2 border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Integrated Payment Gateway/WALLET.</li>
-	  <li class="float-start me-2 py-2  border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Customization and Editing Facility.</li>
-	  <li class="float-start me-2 py-2  border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Live Tracking</li>
-	  <li class="float-start me-2 py-2  border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Feature to manage daily service accounts</li>
-	  <li class="float-start me-2 py-2  border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Social Media Integration</li>
+								<ul class="nav nav-tabs d-none d-lg-flex d-flex justify-content-start align-items-center  border-0 mt-4" id="myTab" role="tablist">
+  <li class="nav-item mx-0 border-0" role="presentation">
+    <button class="nav-link bg-white active px-0 w-250 h-40 fs-13 fw-normal  lh-35px text-dark lsp-5 text-center rounded-top border" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Advantages of Flight API Integration</button>
+  </li>
+  <li class="nav-item mx-1 border-0" role="presentation">
+    <button class="nav-link bg-white px-3 w-250 h-40 fs-13 fw-normal  lh-35px text-dark lsp-5 text-center rounded-top border" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">Features of Flight API Integration</button>
+  </li>
+  
+  
 </ul>
-							 </div>	 
-							 <div>
+<div class="tab-content accordion border bg-white px-4 py-3 rounded-bottom shadow-1" id="myTabContent">
+  <div class="tab-pane fade show active accordion-item   border-0" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
+
+			 <h3 class="fs-18 lsp-5 text-uppercase mt-3 fw-normal text-blue ">Features of Flight API Integration: -</h3>
+	<ul class="list-style-none p-0 m-0 lsp-5 fs-14 lh-24 d-flow-root w-100">
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Real Time Booking</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  Fast Response</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  Reliable and robust</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  Build in Analytics</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  flexibility and scalability</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  Add Markup and Discount Facility</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  Add Agent Facility</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  cost effectiveness</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-90"><i class="bi bi-chevron-double-right text-blue"></i>  Optimized</li>
+	    <li class="float-start me-2 py-2   border-bottom-dashed w-90"><i class="bi bi-chevron-double-right text-blue"></i>  Notification through email &amp;amp; SMS alerts for booking</li>
+</ul> 
+  </div>
+  <div class="tab-pane fade accordion-item  border-0 " id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">
+         <h3 class="fs-18 lh-24 text-start text-uppercase lsp-5 text-orange mb-2">Features of Flight API Integration: -</h3>
+	   	   <ul class="listwRp list-style-none text-start p-0 m-0 d-flow-root mb-3">
+	 <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Real Time Booking</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  Fast Response</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  Reliable and robust</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  Build in Analytics</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  flexibility and scalability</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  Add Markup and Discount Facility</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  Add Agent Facility</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i>  cost effectiveness</li>
+	  <li class="float-start me-2 py-2   border-bottom-dashed w-90"><i class="bi bi-chevron-double-right text-blue"></i>  Optimized</li>
+	    <li class="float-start me-2 py-2   border-bottom-dashed w-90"><i class="bi bi-chevron-double-right text-blue"></i>  Notification through email &amp;amp; SMS alerts for booking</li>
+		</ul>
+  </div>
+ 
+</div>
+							
+							 <!--<div>
 							 <h3 class="fs-18 lsp-5 text-uppercase mt-3 fw-normal text-blue ">Features of Flight API Integration: -</h3>
 	<ul class="list-style-none p-0 m-0 lsp-5 fs-14 lh-24 d-flow-root w-100">
 	  <li class="float-start me-2 py-2   border-bottom-dashed w-45"><i class="bi bi-chevron-double-right text-blue"></i> Real Time Booking</li>
@@ -119,7 +146,7 @@ So, what are you waiting for? We are just a few clicks away from you. Get in tou
 	  <li class="float-start me-2 py-2   border-bottom-dashed w-90"><i class="bi bi-chevron-double-right text-blue"></i>  Optimized</li>
 	    <li class="float-start me-2 py-2   border-bottom-dashed w-90"><i class="bi bi-chevron-double-right text-blue"></i>  Notification through email &amp;amp; SMS alerts for booking</li>
 </ul>
-							 </div>
+							 </div>-->
 								
 							
 

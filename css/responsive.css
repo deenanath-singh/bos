@@ -1309,20 +1309,13 @@ padding-top: 65px;
 	height: 740px;
 }
 
-div#img-change img {
-	height: 500px;
-	object-fit: contain;
-}
+ 
 
 /*sdfklsjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj*/
 .shop-6img img {
 	width: 255px;
 }
-
-.shop-item-pro {
-	margin-top: 30px;
-}
-
+ 
 .best-saller-start {
 	border: 1px solid #0d8bb763;
 	background: #fff;
@@ -2245,79 +2238,9 @@ a.story__2PFf3PoXqjjoDn_EvjY2qU {
 	margin-top: 0;
 }
 
-.shop-detail-bgg {
-	padding: 85px 0;
-}
+  
 
-
-.product-quantity input {
-	max-width: 125px;
-	border-radius: 3px;
-	margin: 0;
-	padding: 5px 0;
-	text-align: center;
-	border-top: 1px solid #1e99e9;
-	border-left: 1px solid #1e99e9;
-	border-bottom: 1px solid #1e99e9;
-	border-right: 0;
-	background: #ffffff;
-	color: #1e99e9;
-	margin-right: -9px;
-}
-
-
-.quantity-selectors-container {
-	display: inline-block;
-	vertical-align: top;
-	margin: 0;
-	padding: 0;
-}
-
-.quantity-selectors {
-	display: flex;
-	flex-direction: column;
-	margin: 0;
-	padding: 0;
-}
-
-.quantity-selectors button {
-	line-height: 15px;
-	appearance: none;
-	margin: 0;
-	border-radius: 0px;
-	border: 1px solid #1e99e9;
-	background-color: #1e99e9;
-	color: white;
-	padding: 1px 10px;
-	border-bottom: none;
-}
-
-.quantity-selectors button:first-child {
-	border-bottom: 0;
-}
-
-.quantity-selectors button:hover {
-	cursor: pointer;
-}
-
-.quantity-selectors button[disabled="disabled"] {
-	cursor: not-allowed;
-}
-
-.quantity-selectors button[disabled="disabled"] span {
-	opacity: 0.5;
-}
-
-.woocommerce button.single_add {
-	float: left;
-	margin-right: 25px;
-	width: 175px !important;
-	height: 45px;
-	background: #2980b9;
-	color: #fff;
-	line-height: 15px;
-}
-
+ 
 .shop-detail-hd h2 {
 	font-size: 30px;
 	font-weight: 600;
@@ -2325,30 +2248,15 @@ a.story__2PFf3PoXqjjoDn_EvjY2qU {
 	letter-spacing: 0.3px;
 	color: #2980b9;
 }
-
-.sh-prizes {
-	color: #333;
-	order: 1;
-	font-size: 24px;
-	font-weight: bold;
-	margin: 30px 0 0px;
-}
+ 
 
 
-.or .gor {
-	color: #333;
-	letter-spacing: 0.3px;
-}
+ 
 
 .single_variation_wrap.clearfix {
 	margin-top: 50px;
 }
-
-.amet-heading h2 {
-	margin-top: 0px;
-	font-size: 28px;
-	color: #007da2;
-}
+ 
 
 .met-content {
 	margin-top: 25px;
@@ -2359,14 +2267,9 @@ a.story__2PFf3PoXqjjoDn_EvjY2qU {
 	padding: 0px 0px;
 }
 
-h3.single-title-prd {
-	color: #2980b9;
-}
+ 
 
-h3.single-title-prd:after {
-	background: #2980b970;
-}
-
+ 
 .shop-heading-cate b {
 	letter-spacing: 0.3px;
 	color: #1e99e9;
@@ -2393,14 +2296,7 @@ h3.single-title-prd:after {
 	margin-top: 20px;
 }
 
-.sd-detail p {
-	color: #333;
-}
-
-.related-acco {
-	padding: 85px 0px;
-}
-
+ 
 .shop-cate-product {
 	margin: 0px 0;
 }
@@ -2412,11 +2308,7 @@ h3.single-title-prd:after {
 #producter .shop-cate-product {
 	margin: 35px 0 0px;
 }
-
-#producter .shop-item-pro img {
-	padding: 0px 20px;
-}
-
+ 
 #producter .nav-tabs>li>a:hover {
 	color: #fff !important;
 	#1e99e9 !important;
@@ -2490,17 +2382,7 @@ section.shop-category .tab-header a {
 	color: #2987c7;
 }
 
-#producter .shop-btn a {
-	font-size: 14px;
-	text-decoration: none;
-	color: #fff;
-	font-weight: 400;
-	line-height: 14px;
-	margin-top: 12px;
-	background: #1e99e9;
-	padding: 10px 16px;
-	border-radius: 40px;
-}
+ 
 
 #producter.shop-rates {
 	top: 47px;
@@ -2634,22 +2516,13 @@ section.wpb_wrapper {
 	color: #2980c0;
 }
 
-.shop-row.product3p {
-	padding: 0px 0 70px;
-}
-
+ 
 
 ul.title-tab {
 	background: #eee;
 }
 
-.shop-category-1 {
-	border-right: 1px solid #eee;
-	background: #fff;
-	padding: 32px 14px;
-	box-shadow: 0px 0px 5px 1px #007da25e;
-}
-
+ 
 .accountsd .enwuyqrpfo3:before {
 	content: 'Login' !important;
 	top: -34px;
@@ -2680,14 +2553,7 @@ ul.title-tab {
 	right: -72px;
 }
 
-.butuns23 a {
-	width: 112px;
-	margin: 20px auto 0px !important;
-	background: #007da2;
-	border-radius: 30px;
-	color: #fff;
-	padding: 9px 0px;
-}
+ 
 
 .shopcontainers {
 	padding: 65px 0px;
@@ -3945,28 +3811,13 @@ ul.title-tab {
 	section.shop-category {
 		padding: 50px 0px;
 	}
-
-	.shop-category-1 {
-		width: calc(100% - 0px);
-		margin: 0 0px 30px;
-	}
-
-	#producter .shop-row {
-		display: flex;
-		flex-wrap: wrap;
-		margin-right: 0;
-		margin-left: 0;
-		width: 100%;
-	}
+ 
 
 	#producter .shop-cate-product {
 		margin: 35px auto 0px;
 	}
 
-	#producter .shop-item-pro img {
-		padding: 0px 0px;
-		width: 200px;
-	}
+ 
 
 	.shopcontainers {
 		padding: 50px 0px;
@@ -4030,9 +3881,7 @@ ul.title-tab {
 		max-width: 33%;
 	}
 
-	.shop-row.product3p {
-		padding: 0px 0 50px;
-	}
+ 
 
 	.boxpro {
 		padding: 25px 15px;
@@ -4143,61 +3992,23 @@ ul.title-tab {
 		margin-bottom: 30px;
 	}
 
-	.shop-detail-bgg {
-		padding: 50px 0;
-	}
-
+ 
 	.shop-detail-hd h2 {
 		font-size: 25px;
 		margin-top: 45px;
 	}
 
-	.sh-prizes {
-		font-size: 18px;
-		margin: 10px 0 0px;
-	}
-
-	.sd-detail p {
-		margin: 20px 0;
-	}
-
-	.amet-heading h2 {
-		margin-top: 20px;
-		font-size: 25px;
-	}
+ 
+ 
 
 	.met-content {
 		margin-top: 10px;
 	}
-
-	h3.single-title-prd {
-		position: relative;
-		margin: 0px 0 30px;
-		font-size: 24px;
-	}
-
-	.related-acco {
-		padding: 50px 0px;
-	}
-
-	.shop-cate-product .shop-row {
-		margin-right: 0px;
-		margin-left: 0px;
-	}
-
-	.or {
-		flex-wrap: wrap;
-		margin: 0px 0;
-	}
-
-	.aud p {
-		margin: 10px 0;
-	}
-
-	.or .gor {
-		line-height: 40px;
-	}
-
+ 
+ 
+ 
+	 
+ 
 	.single_variation_wrap.clearfix {
 		margin-top: 20px;
 	}
@@ -4211,12 +4022,7 @@ ul.title-tab {
 		padding: 0px 20px;
 	}
 
-	.indrajeet .amet-heading h2 {
-		margin-top: 0px;
-		font-size: 25px;
-		margin-bottom: 20px;
-	}
-
+ 
 	.ipd-parent {
 		margin: 0 0 5px;
 	}
@@ -4962,29 +4768,13 @@ ul.title-tab {
 	section.shop-category {
 		padding: 50px 0px;
 	}
-
-	.shop-category-1 {
-		width: calc(100% - 0px);
-		margin: 0 0px 30px;
-	}
-
-	#producter .shop-row {
-		display: flex;
-		flex-wrap: wrap;
-		margin-right: 0;
-		margin-left: 0;
-		width: 100%;
-	}
-
+ 
+ 
 	#producter .shop-cate-product {
 		margin: 35px auto 0px;
 	}
 
-	#producter .shop-item-pro img {
-		padding: 0px 0px;
-		width: 200px;
-	}
-
+ 
 	.shopcontainers {
 		padding: 50px 0px;
 	}
@@ -5049,10 +4839,7 @@ ul.title-tab {
 		max-width: 33%;
 	}
 
-	.shop-row.product3p {
-		padding: 0px 0 50px;
-	}
-
+ 
 	.boxpro {
 		padding: 25px 15px;
 		width: 300px;
@@ -5162,61 +4949,23 @@ ul.title-tab {
 		height: 350px;
 	}
 
-	.shop-detail-bgg {
-		padding: 50px 0;
-	}
-
+ 
 	.shop-detail-hd h2 {
 		font-size: 20px;
 		margin-top: 45px;
 	}
 
-	.sh-prizes {
-		font-size: 18px;
-		margin: 10px 0 0px;
-	}
-
-	.sd-detail p {
-		margin: 20px 0;
-	}
-
-	.amet-heading h2 {
-		margin-top: 20px;
-		font-size: 20px;
-	}
+   
 
 	.met-content {
 		margin-top: 10px;
 	}
 
-	h3.single-title-prd {
-		position: relative;
-		margin: 0px 0 30px;
-		font-size: 24px;
-	}
-
-	.related-acco {
-		padding: 50px 0px;
-	}
-
-	.shop-cate-product .shop-row {
-		margin-right: 0px;
-		margin-left: 0px;
-	}
-
-	.or {
-		flex-wrap: wrap;
-		margin: 0px 0;
-	}
-
-	.aud p {
-		margin: 10px 0;
-	}
-
-	.or .gor {
-		line-height: 40px;
-	}
-
+ 
+ 
+ 
+ 
+	 
 	.single_variation_wrap.clearfix {
 		margin-top: 20px;
 	}
@@ -5229,13 +4978,7 @@ ul.title-tab {
 	.shicn {
 		padding: 0px 0px;
 	}
-
-	.indrajeet .amet-heading h2 {
-		margin-top: 0px;
-		font-size: 20px;
-		margin-bottom: 20px;
-	}
-
+ 
 	.ipd-parent {
 		margin: 0 0 5px;
 	}
@@ -5265,10 +5008,7 @@ ul.title-tab {
 		padding-bottom: 0px !important;
 	}
 
-	.shop-btn a {
-		margin: auto !important;
-	}
-
+ 
 	.container {
 		padding-right: 30px;
 		padding-left: 30px;
@@ -6425,28 +6165,13 @@ ul.title-tab {
 	section.shop-category {
 		padding: 50px 0px;
 	}
-
-	.shop-category-1 {
-		width: calc(100% - 0px);
-		margin: 0 0px 30px;
-	}
-
-	#producter .shop-row {
-		display: flex;
-		flex-wrap: wrap;
-		margin-right: 0;
-		margin-left: 0;
-		width: 100%;
-	}
-
+ 
+	 
 	#producter .shop-cate-product {
 		margin: 35px auto 0px;
 	}
 
-	#producter .shop-item-pro img {
-		padding: 0px 0px;
-		width: 200px;
-	}
+ 
 
 	.shopcontainers {
 		padding: 50px 0px;
@@ -6489,16 +6214,7 @@ ul.title-tab {
 		margin: 0 10px 40px;
 	}
 
-	.shop-row.product3p .all-shop-product3 {
-		width: 100%;
-		margin-bottom: 30px;
-		max-width: 100%;
-		text-align: center;
-		display: block;
-		box-shadow: 0px 0px 6px 1px #ccc;
-		padding-bottom: 30px;
-	}
-
+ 
 	.shop-line {
 		display: none;
 	}
@@ -6515,9 +6231,7 @@ ul.title-tab {
 		padding-top: 20px;
 	}
 
-	.shop-row.product3p {
-		padding: 0px 0 50px;
-	}
+ 
 
 	.boxpro {
 		padding: 25px 15px;
@@ -6632,60 +6346,23 @@ ul.title-tab {
 		height: 350px;
 	}
 
-	.shop-detail-bgg {
-		padding: 50px 0;
-	}
-
+ 
 	.shop-detail-hd h2 {
 		font-size: 20px;
 		margin-top: 45px;
 	}
 
-	.sh-prizes {
-		font-size: 18px;
-		margin: 10px 0 0px;
-	}
-
-	.sd-detail p {
-		margin: 20px 0;
-	}
-
-	.amet-heading h2 {
-		margin-top: 20px;
-		font-size: 20px;
-	}
-
+ 
+ 
+ 
 	.met-content {
 		margin-top: 10px;
 	}
 
-	h3.single-title-prd {
-		position: relative;
-		margin: 0px 0 30px;
-		font-size: 24px;
-	}
+ 
+	 
 
-	.related-acco {
-		padding: 50px 0px;
-	}
-
-	.shop-cate-product .shop-row {
-		margin-right: 0px;
-		margin-left: 0px;
-	}
-
-	.or {
-		flex-wrap: wrap;
-		margin: 0px 0;
-	}
-
-	.aud p {
-		margin: 10px 0;
-	}
-
-	.or .gor {
-		line-height: 40px;
-	}
+ 
 
 	.single_variation_wrap.clearfix {
 		margin-top: 20px;
@@ -6700,12 +6377,7 @@ ul.title-tab {
 		padding: 0px 0px;
 	}
 
-	.indrajeet .amet-heading h2 {
-		margin-top: 0px;
-		font-size: 20px;
-		margin-bottom: 20px;
-	}
-
+ 
 	.ipd-parent {
 		margin: 0 0 5px;
 	}
@@ -6735,9 +6407,7 @@ ul.title-tab {
 		padding-bottom: 0px !important;
 	}
 
-	.shop-btn a {
-		margin: auto !important;
-	}
+ 
 
 	.container {
 		padding-right: 15px;
@@ -7283,9 +6953,7 @@ ul.title-tab {
 		margin-bottom: 10px;
 	}
 
-	#producter .shop-row {
-		display: block;
-	}
+	 
 
 	.best-saller-col-3 {
 		max-width: 100%;
@@ -7310,10 +6978,7 @@ ul.title-tab {
 		flex: 0 0 100%;
 		float: left;
 	}
-
-	.indrajeet .shop-row .shop-col-4 {
-		float: left;
-	}
+ 
 
 	.best-saller-start {
 		padding: 20px 1px;
@@ -7324,11 +6989,7 @@ ul.title-tab {
 		padding: 0px 0 0px 30px;
 	}
 
-	.shop-btn a {
-		margin: auto !important;
-		width: 100px;
-	}
-
+ 
  
 
 	.blog-group {
@@ -7347,9 +7008,7 @@ ul.title-tab {
 		height: 250px;
 	}
 
-	div#img-change img {
-		height: auto;
-	}
+	 
 
 	.shoppthum li img {
 		width: auto;
@@ -7360,16 +7019,7 @@ ul.title-tab {
 	.sh-inn2 {
 		padding: 0px 0px;
 	}
-
-	.woocommerce button.single_add {
-		float: left;
-		margin-right: 5px;
-		width: 134px !important;
-		height: 45px;
-		background: #2980b9;
-		color: #fff;
-		line-height: 15px;
-	}
+ 
 
 	.shop-cntre-12 {
 		padding: 20px;
@@ -7383,12 +7033,7 @@ ul.title-tab {
 		padding: 0px 10px;
 	}
 
-	.indrajeet .shop-row {
-		display: block;
-		flex-wrap: wrap;
-		margin-right: 0px;
-		margin-left: 0px;
-	}
+ 
 
 	.contcommon .form-group {
 		margin-bottom: 0px;

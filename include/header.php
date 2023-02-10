@@ -124,7 +124,7 @@
                         </div>
                         <div class="col-sm-3">
                            <div class="submenulistclm">
-                              <h3><a href="javascript:void();"> Projects</a></h3>
+                              <h3><a href="project.php"> Projects</a></h3>
                               <ul class="border__left">
                                  <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Nidhi Company </a></li>
                                  <li><a href="#" class="px-3 py-2"><span class="straightLine"></span> Micro Finance Company</a></li>
@@ -232,7 +232,7 @@
                      <div class="col-sm-3">
                         <div class="submenulistclm3 submenulistclm3bg1">
                            <h4>Retailer </h4>
-                           <a href="javascript:void();">Click Here</a>
+                           <a href="product.php">Click Here</a>
                         </div>
                      </div>
                      <div class="col-sm-3">

@@ -36,7 +36,7 @@
 					 Aenean eget massa nec mauris tempor pellentesque. 
 					 Proin dignissim id neque at tristique
                   </p>
-				  <a href="#" class="thm-btn2 modalShow"> Request a quote</a>
+				  <a href="#" class="thm-btn2 modalShow text-white bg-dark d-inline-block py-2 px-3 text-uppercase rounded justify-content-center border-2 border border-white z-index-9 fs-6 position-relative overflow-hidden align-items-center  mt-3 "> Request a quote</a>
                </div>
 			   
             </div>

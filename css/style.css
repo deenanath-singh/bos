@@ -55,6 +55,7 @@ p, span{font-size:13px;}
 .w-150{width:150px}
 .w-180{width:180px}
 .w-200{width:200px}
+.w-250{width:250px}
 .w-10{width:10%}
 .w-12{width:12%}
 .w-15{width:15%}
@@ -275,7 +276,7 @@ p, span{font-size:13px;}
     position: relative;
   }
   .servicesSectiontab {
-    position: fixed;
+    position: absolute;
     left: -100%;
     z-index: 0;
     top: 0;
@@ -6194,14 +6195,7 @@ ul.tabs-2 li.tab-item a i {
       flex: 0 0 33%;
     }
 
-
-    .shop-row {
-      display: flex;
-      flex-wrap: wrap;
-      margin-right: -15px;
-      margin-left: -15px;
-      width: 100%;
-    }
+ 
 
     section.shop-category {
       margin: 40px 0;
@@ -6270,12 +6264,7 @@ ul.tabs-2 li.tab-item a i {
       color: #44444480;
     }
 
-    .shop-item-pro a {
-      display: block;
-      position: relative;
-      overflow: hidden;
-    }
-
+  
     .shop-prize h4 {
       font-size: 14px;
       font-weight: 500;
@@ -6302,21 +6291,12 @@ ul.tabs-2 li.tab-item a i {
       display: inline-block;
     }
 
-    .shop-category-1 {
-      width: calc(20% - 20px);
-
-      margin: 0 10px;
-      padding: 20px 10px;
-      text-align: center;
-    }
+ 
 
     .shop-icon-star li i {
       color: #1e99e9;
     }
-    .shop-category-1:hover {
-      box-shadow: 0 0 7px 4px #00000014;
-    }
-
+   
     .shop-cate-6 {
       width: calc(50% - 20px);
       margin: 0 10px;
@@ -7560,8 +7540,7 @@ ul.tabs-2 li.tab-item a i {
     border: 1px solid #eee;
     position: relative;
     min-height: 340px;
-    max-height: 340px;
-    background: url(https://staysafeonline.org/wp-content/themes/staysafeonline/assets/build/img/grid-template-dots.png)
+    max-height: 340px; 
     no-repeat #1f8bd8;
     box-shadow: -20px 20px 53px -20px #969696;
     color: #fff;
@@ -16795,21 +16774,15 @@ ul.tabs-2 li.tab-item a i {
   }
 
   h3.single-title-prd:after {
-    position: absolute;
-    width: 901px;
+  position: absolute;
+    width: 75%;
     height: 1px;
-    background: #3a3a3a3d;
+    background: #2980b970;
     content: "";
-    left: 214px;
+    left: 25%;
     top: 14px;
   }
-  h3.single-title-prd {
-    position: relative;
-    margin: 0px 0 60px;
-    font-size: 24px;
-    font-weight: 500;
-    display: block;
-  }
+  
   .latest-video-poster.relative-position.mb20 img {
     width: 100%;
     max-width: 100%;
@@ -18585,10 +18558,7 @@ section.black-bar {
     .product-price.price.simple ins {
       text-decoration: none;
     }
-    .shop-item-pro img {
-      width: 100%;
-      max-width: 100%;
-    }
+   
     a.adv-thumb-link.transition img {
       width: 100%;
       max-width: 100%;
@@ -18722,14 +18692,7 @@ section.black-bar {
       width: 100%;
       max-width: 100%;
     }
-    .shop-btn a {
-      display: block;
-      font-size: 14px;
-      text-decoration: none;
-      color: #333;
-      font-weight: 700;
-      line-height: 14px;
-    }
+    
 
     .all-shop-product3 {
       width: 33.33%;
@@ -18744,10 +18707,7 @@ section.black-bar {
       border: none;
     }
 
-    .shop-row.product3p {
-      padding: 40px 0;
-    }
-
+   
     section.wpb_wrapper {
       padding: 40px 0;
       background: #f2f2f2;
@@ -18810,19 +18770,7 @@ section.black-bar {
     .shop-wrapper:last-child {
       border-bottom: none;
     }
-    .shop-detail-bgg {
-      padding: 70px 0;
-    }
-    .ship-detail1 img {
-      width: 100%;
-      max-width: 100%;
-    }
-    .ship-detail1 img {
-      width: 100%;
-      max-width: 100%;
-      border: 1px solid #e5e0e0bf;
-      border-radius: 5px;
-    }
+    
     ul.shoppthum {
       padding: 0;
       overflow: hidden;
@@ -18878,57 +18826,20 @@ section.black-bar {
       font-size: 11px;
       font-weight: 600;
     }
-    .sh-prizes {
-      color: #222222;
-      order: 1;
-      font-size: 24px;
-      font-weight: bold;
-      margin: 20px 0;
-    }
+   
     .shop-strip-line {
       height: 1px;
       width: 100%;
       background: #ebebebab;
     }
-    .sd-detail p {
-      margin: 41px 0;
-      color: #aca3a3;
-    }
+   
     .sd-detail b {
       display: block;
     }
     strong.ctpd {
       margin-right: 6px;
     }
-
-
-    .or .gor {
-      width: 28%;
-      max-width: 28%;
-      flex: 0 0 28%;
-      font-weight: 700;
-    }
-
-    .aud {
-      width: 72%;
-      max-width: 72%;
-      flex: 0 0 72%;
-    }
-    .gor {
-      width: 28%;
-      max-width: 28%;
-      flex: 0 0 28%;
-      font-weight: 700;
-    }
-    .aud p {
-      margin: 0;
-      line-height: 22px;
-    }
-    .or {
-      display: flex;
-      flex-wrap: wrap;
-      margin: 20px 0;
-    }
+ 
     .single-list-social i {
       margin-right: 6px;
       color: #1e99e9;
@@ -18937,9 +18848,7 @@ section.black-bar {
       font-weight: 700;
       margin-right: 20px;
     }
-    .shop-category-1 a {
-      border: none !important;
-    }
+   
 
     .shop-cntre-3 {
       width: 27%;
@@ -18957,11 +18866,7 @@ section.black-bar {
       margin: 30px 0;
       border-radius: 10px;
     }
-    .amet-heading h2 {
-      margin-top: 16px;
-      font-weight: 500;
-      font-size: 28px;
-    }
+   
     .shicn {
       padding: 20px 20px;
     }
@@ -19074,25 +18979,14 @@ section.black-bar {
       font-weight: bold;
       color: #fff;
     }
-    .woocommerce button.single_add {
-      width: 72%;
-      max-width: 100%;
-      padding: 13px 21px;
-      text-align: center;
-      border-radius: 30px;
-      border: none;
-      color: #000;
-      position: relative;
-    }
+    
     .woocommerce {
       position: relative;
     }
     button:focus {
       outline: none;
     }
-    .woocommerce button.single_add:hover{color:#fff;}
-
-
+   
     .wishlist-wrap.flex-wrap.flex-wrap-wrap {
       display: flex;
       flex-wrap: wrap;
@@ -19763,21 +19657,14 @@ div#shop-bg {
   bottom: 7%;
   left: 30%;
 }
-.shop-category-1 {
-  border-right: 1px solid #eee;
-}
-.shop-category-1:last-child {
-  border-right: 0;
-}
+ 
+ 
 .shoppthum li img {
   width: 150px;
   height: 100px;
   object-fit: contain; cursor: pointer;
 }
-div#img-change img {
-  height: 500px;
-  object-fit: cover;
-}
+ 
 .best-saller-col-3 img {
   cursor: pointer;
   width: 67px;
@@ -19907,13 +19794,8 @@ ul.list-none {
 }
 ul.list-none li a{color:#555;}
 ul.list-none li a:hover{color:#337ab7;}
-div#product-slides .owl-item .shop-category-1 {
-  width: 100%;
-  border-right: 1px solid #eee !important;
-}
-div#product-slides .owl-item .shop-category-1:last-child { 
-  border-right:0;
-}
+ 
+ 
 .about-pds .whybodx:nth-child(2):after {
   bottom: -15px;
 }
